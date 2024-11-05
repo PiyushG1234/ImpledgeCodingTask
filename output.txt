@@ -1,0 +1,3 @@
+Longest compound word : ratcatdogcat
+Second longest compound word : catsdogcats
+Time taken to process input file : 2 milliseconds
